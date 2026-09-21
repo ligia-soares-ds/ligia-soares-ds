@@ -2,7 +2,7 @@
 
 **`Dados | Python · SQL · Databricks`**
 
-Construo pipelines, modelos e análises de dados. Curso a **Especialização em Ciência de Dados e Analytics na PUC-Rio**, onde trabalho com banco de dados, data warehouse, análise exploratória e visualização em **Databricks**.
+Construo pipelines, modelos e análises de dados. Curso a **Especialização em Ciência de Dados e Analytics na PUC-Rio**, onde trabalho com banco de dados, data warehouse, análise exploratória e visualização em **Databricks e Snowflake**.
 
 Desde 2022 colaboro em pesquisa aplicada de *machine learning*: segmentação de alterações hipocampais em neuroimagem e classificação de emoções a partir de termografia.
 
