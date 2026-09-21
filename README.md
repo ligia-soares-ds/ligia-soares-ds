@@ -165,6 +165,14 @@ Foco atual: **engenharia e ciência de dados**.
         src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"
     />
 </a>
+<img
+    align="left"
+    alt="Snowflake"
+    title="Snowflake"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg"
+/>
 
 <br/>
 <br/>
@@ -231,6 +239,8 @@ Foco atual: **engenharia e ciência de dados**.
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
+| [voebem-analytics](https://github.com/ligia-soares-ds/voebem-analytics) | Pipeline lakehouse em arquitetura medallion sobre dados abertos de voos da ANAC, com camada gold desenhada para consumo por agente de IA. | Databricks · PySpark · Delta Lake · SQL |
+| [sd3-lakehouse-pipeline](https://github.com/ligia-soares-ds/sd3-lakehouse-pipeline) | Pipeline de dados em arquitetura lakehouse sobre o instrumento SD3 (tríade sombria), da ingestão à camada analítica. | Databricks · Spark · SQL |
 | [credit-card-fraud](https://github.com/ligia-soares-ds/credit-card-fraud) | Detecção de fraude em cartão de crédito com Random Forest, lidando com forte desbalanceamento de classes. | Python · scikit-learn · Pandas |
 
 <br/>
@@ -243,12 +253,12 @@ Foco atual: **engenharia e ciência de dados**.
     alt="Estatísticas do GitHub"
     height="165"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=ligia-soares-ds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=ligia-soares-ds&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400"
   />
   <img
     align="left"
     alt="Tecnologias mais usadas"
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-soares-ds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligia-soares-ds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=86400"
   />
 </p>
